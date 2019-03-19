@@ -1,4 +1,4 @@
-# image_recognith
+# image_recognition
 + 一个使用CNN进行验证码识别的程序（基于TensorFlow）
 + 这个神经网络不进行验证码的分割，直接进行训练，原始图像经过灰度处理
 + train中为训练集，大约3.5w张图片
